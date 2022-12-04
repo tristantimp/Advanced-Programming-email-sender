@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "propane-cubist-270623",
+    "private_key_id": "bbdb22a635718df3cf88c3fbf69376ea2de2854b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCi+/e2Ryexb2SI\n+iybAq88+IhXLwqVg1IA4p/6aRGppUl4CgtX3RGo6q2X+qhejLwKUcPr/HB7Dh4B\n6DhxSQYCn6hx87n6lhd9B6Zf9FqveiOufGHMXF/YDTDejAVoef3Ali1igQXALO4W\nYOOJUGToSUJbjo4O5YMNcMyyOO08/kbjZmYRNEYISFDxs46y3katevRrtWyoemS9\nZpbbOgUiFQKI75PbzLpDK3PayVj4OmVCdU6BFBVo6+h370HKvgnETTBqi4CyNLrY\nD+8XgRdoAkh4Sdqk5kuDxKjoAyS6iRIlXnnQAUlVEDZDDYpT4L0m6+B8IN26Ed/t\nGWAnBz2tAgMBAAECggEAFhAEssSED4VUNySieCNPZHICRscD6ERcC+mhnUyuyueo\nf9rgOTcgRlzqPdn9A7uKUt1Jp77G3SmGj1yHk3I+oYlKTI6hHNZHfLHV6ERUKE/g\n16RXusnAYac7d8y9iKyG2JSbtSthA2gxnI7mDjb3Sehs1qb//O09pcqgsvl4x9ou\nP5tNfCQ8eAPyMdPxCUhd6eWLt4xCDNnQa6VCDctX3GYY+KvS4viU52Yuy+M/UvCf\nV/NuKAzYeBA5ildV1y9NkRbAYBZl+ribARETz6ZVWeqg4n3qUcJInJ68PbPxIP+/\nRvcvk2DctpqD04d0tar+JT8qWTm6FrhVO0v1MiVfYwKBgQDl0y/O/fh57iUo3/It\ny1djimgLiGpUF2qUlIpoLaksTI/1EV/pXKiwgKtb7pQRo39sD5it83PLaPJL+ES4\nDI4TTtDUpwNFVy3xGzM7GLKXFuQL/1c59pzvOv/dSeMnL+M7UPY5C58OgIIQEa0F\na2D8O+OzQjj+XzBj7Iq+19J8hwKBgQC1i/Zwifiz7XSga/TrietcGHwWlFBftYab\neAl7MHnfb2mSEbB9EW3xbzB1W5twVKGDjH8ZrcH6eWIKMdCm9aGBb0lxOSSldREn\nylXybyQAvDvc9EHUYvQuEswSOy9yqD5hfkWUrglDQeLCIcHugTr6yGUtoiIRHpZm\nuzH45nDVKwKBgFkLagqY/BzB2EPuALcdgc5fYdCWGhxatkC7DKUwi8tOHrik8rRH\n4lQAhmQoG9Z5snT71fwPx12YW8hzeKyWsLVqZB8AVpQXIwW3tDHBb/B6PgEn/XPH\nySYnhdsHNauJMlFZHQ0dI5NK1xnCv3bKE9mmmqJplgt4dhdBHsCyfishAoGBAJ4I\npVDXucgep0xSTZSPrXKw2avqFYELCo7hUheLXjuyx0pg3aoxduwZJyyxvsBs22Ag\n+C8JQ3dfHInVTVVZMuryThMidBUXsARcLK7qMoP1V4MCmR9huD83G6+vF6GOdSb2\n/WjsiqGig9sL+b49fnL56KFtpowSfUgWIe0R5BybAoGBAJMSXBgmy5K4PA4wxjjg\nZs455gq9/5RQ6/1xKn9+lLJ/KUa3KHP+Occ89hEu5M35WJn1YGAj/cNx1esS4sLJ\nnP6RodajMzCuZDmH8mLboMYBq7BhfbEYt4k7G8sDFHVA2M0SlnuJ5a5SdWZnKJGB\nU+770KaX46wYtsYXYf4cZpU7\n-----END PRIVATE KEY-----\n",
+    "client_email": "pythonsheetintegration@propane-cubist-270623.iam.gserviceaccount.com",
+    "client_id": "104004220692728295425",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonsheetintegration%40propane-cubist-270623.iam.gserviceaccount.com"
+  }
